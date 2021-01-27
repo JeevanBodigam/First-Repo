@@ -1,5 +1,13 @@
+<<<<<<< HEAD
 First line 
+=======
+First line(alternative)
+>>>>>>> alternative
 Second line
-Third line (main)
+Third line(alternative)
 Fourth line
+<<<<<<< HEAD
 Fifth line (main)
+=======
+Fifth line
+>>>>>>> alternative
