@@ -1,5 +1,5 @@
-First line (main)
+First line(alternative)
 Second line
-Third line (main)
+Third line(alternative)
 Fourth line
 Fifth line
