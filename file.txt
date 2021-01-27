@@ -2,6 +2,4 @@ First line (alternative)
 Second line
 Third line (alternative)
 Fourth line
-Fifth line ( alternative )
-Sixth line
-Seventh line ( alternative)
+Fifth line (alternative)
